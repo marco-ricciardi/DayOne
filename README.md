@@ -4,7 +4,12 @@ A mobile app for tracking physical progress with one photo a day. You line up ea
 
 Built with Flutter (Dart), with native Android code (Kotlin) for notifications.
 
-<!-- Screenshots go here: camera with overlay, calendar, timelapse -->
+<p>
+  <img src="screenshots/camera.jpg" width="200" alt="Camera with ghost overlay">
+  <img src="screenshots/calendar.jpg" width="200" alt="Calendar view">
+  <img src="screenshots/timelapse.jpg" width="200" alt="Timelapse">
+  <img src="screenshots/settings.jpg" width="200" alt="Settings and reminders">
+</p>
 
 ## The problem
 
