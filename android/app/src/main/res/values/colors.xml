@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Blue background color matching app icon -->
+    <color name="launch_background">#1C079F</color>
+</resources>
